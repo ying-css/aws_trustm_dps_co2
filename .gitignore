@@ -1,0 +1,26 @@
+# Ignore build files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.pyc
+
+# Ignore top-level build dir
+/build*/
+
+# Ignore top-level tests dir
+/tests*/
+
+# Ignore documents folder 
+/doc*/
+
+# Ignore vs code files 
+/.dist*/
+.vscode/*
+
+# Ignore vendors/pc folder
+/vendors/pc*/
+
+# Ignore vendors/vendor folder
+/vendors/vendor*/

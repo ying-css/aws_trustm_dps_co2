@@ -1,0 +1,41 @@
+Checking if remote manifest is accessible...
+Getting manifests from remote server...
+
+Processing super-manifest https://github.com/cypresssemiconductorco/mtb-super-manifest/raw/v2.X/mtb-super-manifest-fv2.xml...
+Successfully acquired the information.
+Reading project (C:/aws_psoc62_trustm_ITDSA/projects/cypress/CY8CPROTO_062_4343W/mtb/aws_demos) information...
+
+Warning: Unable to find the Active BSP in the manifest database.
+Successfully acquired project information.
+
+Updating project...
+Running "make getlibs"...
+C:/Users/yeying/ModusToolbox/tools_2.4/modus-shell/bin/make.exe getlibs CY_TOOLS_PATHS=C:/Users/yeying/ModusToolbox/tools_2.4 QUICK_MODE=1
+Tools Directory: C:/Users/yeying/ModusToolbox/tools_2.4
+
+==============================================================================
+= Importing libraries =
+==============================================================================
+Git is git version 2.33.0, found at /usr/bin/git
+
+Searching application directory (.lib)...
+Application directory search complete.
+
+Searching "libs" directory (.lib)...
+"libs" directory search complete.
+
+==============================================================================
+= Import complete =
+==============================================================================
+
+==============================================================================
+
+Successfully updated the project.
+
+==============================================================================
+
+
+Reading project (C:/aws_psoc62_trustm_ITDSA/projects/cypress/CY8CPROTO_062_4343W/mtb/aws_demos) information...
+
+Warning: Unable to find the Active BSP in the manifest database.
+Successfully acquired project information.

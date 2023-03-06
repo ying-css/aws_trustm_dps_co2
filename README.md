@@ -1,1 +1,1 @@
-# aws_trustm_dps_co2
+This repository contains the stable versions of FreeRTOS and should be used as code basis for further developments.
